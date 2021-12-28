@@ -2,7 +2,7 @@ From your command line, first clone this repo:
 
 ```sh
 # Clone this repository
-$ git clone https://github.com/sandeepdu/React_Native_Hero
+$ git clone https://github.com/alexso2105/reactNative_superHero
 
 # Go into the repository
 $ cd React_Native_Hero
